@@ -11,5 +11,6 @@ Un blog increible para el curso de Git y Github
 * Turcos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el incre´´ible Platzi team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como amable recordatorio: **este readme.md es un chiste**. Diseñado para ejemplo, si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
