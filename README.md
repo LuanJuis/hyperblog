@@ -4,11 +4,12 @@ Un blog increible para el curso de Git y Github
 
 >- niñita
 
-En este curso vemos de todo:
+## En este curso vemos de todo:
 * Todos los comandos de Git
 * EL flujo de trabajo en Github
 * EL verdadero amor por la buenas prácticas
 * Turcos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el incre´´ible Platzi team
 
 Y como amable recordatorio: **este readme.md es un chiste**. Diseñado para ejemplo, si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
